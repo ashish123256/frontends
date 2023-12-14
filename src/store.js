@@ -51,3 +51,6 @@ const store = createStore(
 )
 
 export default store;
+
+
+ // "start": "react-scripts --openssl-legacy-provider start",
